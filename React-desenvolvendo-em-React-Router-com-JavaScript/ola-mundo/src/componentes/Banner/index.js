@@ -20,12 +20,13 @@ export default function Banner() {
           className={styles.circuloColorido}
           src={circuloColorido}
           aria-hidden={true}
+          alt='Circulo colorido'
         />
 
         <img
           className={styles.minhaFoto}
           src={minhaFoto}
-          alt='Foto do Antônio Evaldo sorrindo'
+          alt='Foto do Marcelo Norberto'
         />
       </div>
     </div>
